@@ -22,3 +22,18 @@
 
 ![NYC_Airbnb_Dashboard](https://github.com/user-attachments/assets/b75a989c-513f-4bce-84fd-b044a18c4812)
 
+## Summary
+
+### Pricing 
+- Manhattan yields the highest average listing price, followed by Brooklyn, while Bronx have the lowest.  
+- Most of the top 10 most expensive neighborhoods are in Manhattan.  
+- Price distribution varies significantly by room type.
+- The abundant supply of private rooms in Brooklyn and Manhattan, with three-quarters priced below the boroughs' average, could make them attractive options for targeted advertising on travel websites.
+  
+
+### Room Type & Listing Distribution
+- Manhattan has the highest number of listings, followed by Brooklyn, while Staten Island has the fewest.  
+- Private rooms are the most commonly listed room type across all boroughs.  
+- Brooklyn and Manhattan dominate the Airbnb market.  
+
+
